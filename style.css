@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+}
+.top {
+  background-color: rgb(252, 247, 242);
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.left_top {
+  width: 25%;
+  display: flex;
+  justify-content: space-around;
+  font-size: 15px;
+  cursor: pointer;
+}
+.right_top {
+  width: 12%;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+.track_order {
+  margin-left: 10px;
+}
+.nav {
+  /* border: solid 1px red; */
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 15px;
+  border-bottom: solid 1.5px rgb(0, 0, 0);
+}
+.nav_left {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 50px;
+  font-size: 20px;
+}
+.nav_right {
+  width: 20%;
+  display: flex;
+  padding-left: 100px;
+  justify-content: space-around;
+}
+.imge {
+  height: 25px;
+}
+.input {
+  width: 100px;
+}
+.search_box {
+  margin-top: 10px;
+  padding-top: 1px;
+  background-color: rgb(219, 219, 219);
+  padding: 5px;
+  width: 75%;
+  justify-content: space-around;
+}
+.search {
+  background-color: rgb(219, 219, 219);
+  border: 0px;
+  padding-right: 30px;
+}
+.Tab {
+  height: 50px;
+  width: 30%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.banner {
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  margin: 0;
+}
+.banner_1 {
+  width: 30%;
+  height: 450px;
+}
+.banner_2 {
+  width: 30%;
+  height: 450px;
+}
+.banner_3 {
+  width: 30%;
+  height: 450px;
+}
+.baner_1 {
+  width: 450px;
+  height: 450px;
+}
+.baner_2 {
+  width: 450px;
+  height: 450px;
+}
+.baner_3 {
+  width: 450px;
+  height: 450px;
+}
+.Timeing{
+  height: 150px;
+  padding-bottom: 2px;
+  margin-bottom: 30px;
+}
+.Time_img{
+  height: 150px;
+  width: 100%;
+}
